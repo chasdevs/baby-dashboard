@@ -1,0 +1,24 @@
+Child,Log Type,Breast Used,Start Date,End Date,Duration(mins),Amount(ounces),Milk Type,Diaper,Title,Notes,Weight(lbs),Length(inches)
+"Bob",Breast,Both,"2022-07-16 12:47","2022-07-16 13:33",42,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Diaper,(null),"2022-07-16 12:40","(null)",0,0.0,(null),Wet&Dirty,"(null)","(null)",0.00,0.00
+"Bob",Note,(null),"2022-07-16 11:15","(null)",0,0.0,(null),(null),"Pediatrician Visit 2 Week","(null)",0.00,0.00
+"Bob",Diaper,(null),"2022-07-16 10:35","(null)",0,0.0,(null),Wet&Dirty,"(null)","(null)",0.00,0.00
+"Bob",Expressed,Both,"2022-07-16 10:35","(null)",0,2.3,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Bottle,(null),"2022-07-16 10:33","(null)",0,0.9,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",(null),Left,"2022-07-16 10:22","(null)",0,0.0,Breast Milk,(null),"Vitamin D","(null)",0.00,0.00
+"Bob",Breast,Both,"2022-07-16 09:42","2022-07-16 10:08",26,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Diaper,(null),"2022-07-16 07:28","(null)",0,0.0,(null),Wet&Dirty,"(null)","(null)",0.00,0.00
+"Bob",Breast,Both,"2022-07-16 06:56","2022-07-16 07:37",28,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Diaper,(null),"2022-07-16 04:40","(null)",0,0.0,(null),Wet&Dirty,"(null)","(null)",0.00,0.00
+"Bob",Breast,Both,"2022-07-16 04:09","2022-07-16 04:57",38,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Expressed,Both,"2022-07-16 02:00","(null)",0,2.3,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Bottle,(null),"2022-07-16 01:59","(null)",0,1.1,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Diaper,(null),"2022-07-16 01:30","(null)",0,0.0,(null),Wet,"(null)","(null)",0.00,0.00
+"Bob",Breast,Both,"2022-07-16 01:04","2022-07-16 01:46",29,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Growth,(null),"2022-07-16 00:00","(null)",0,0.0,(null),(null),"(null)","(null)",8.19,0.00
+"Bob",Diaper,(null),"2022-07-15 23:01","(null)",0,0.0,(null),Dirty,"(null)","(null)",0.00,0.00
+"Bob",Breast,Both,"2022-07-15 22:00","2022-07-15 22:34",25,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Diaper,(null),"2022-07-15 19:30","(null)",0,0.0,(null),Wet&Dirty,"(null)","(null)",0.00,0.00
+"Bob",Breast,Both,"2022-07-15 18:15","2022-07-15 18:56",41,0.0,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Expressed,Both,"2022-07-15 16:15","(null)",0,2.5,Breast Milk,(null),"(null)","(null)",0.00,0.00
+"Bob",Bottle,(null),"2022-07-15 16:10","(null)",0,1.1,Breast Milk,(null),"(null)","(null)",0.00,0.00

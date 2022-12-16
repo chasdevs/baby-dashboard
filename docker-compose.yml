@@ -1,0 +1,26 @@
+services:
+  metabase:
+    build: ./docker/metabase 
+    ports: [3000:3000]
+    depends_on: [postgres]
+    environment:
+      - MB_DB_TYPE=postgres
+      - MB_DB_DBNAME=metabase
+      - MB_DB_PORT=5432
+      - MB_DB_USER=postgres
+      - MB_DB_PASS=password
+      - MB_DB_HOST=postgres
+    restart: unless-stopped
+
+  postgres:
+    image: postgres
+    ports: [5432:5432]
+    environment:
+      - POSTGRES_PASSWORD=password
+    volumes:
+      - ./docker/postgres-initdb.d:/docker-entrypoint-initdb.d
+      - pgdata-baby-dashboard:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  pgdata-baby-dashboard:
